@@ -21,3 +21,5 @@ package-lock.json
 # Misc
 
 .DS_Store
+/_posts/.DS_Store
+/assets/.DS_Store
