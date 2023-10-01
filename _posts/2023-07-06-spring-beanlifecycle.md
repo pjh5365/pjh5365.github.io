@@ -92,7 +92,7 @@ public Client client() {
 ```
 
 > `initMethod` 속성과 `destroyMethod` 속성에 지정한 메서드는 파라미터가 없어야 한다. 이 두 속성에 지정한 메서드가 파라미터가 존재할 경우 스프링 컨테이너는 예외를 발생시킨다. 
-> {: .prompt-danger }
+{: .prompt-danger }
 
 이처럼 초기화 관련 코드를 따로 작성했다면 초기화 메서드가 두 번 호출되지 않도록 유의해야 한다.
 
