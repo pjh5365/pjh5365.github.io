@@ -2,7 +2,7 @@
 title: Naver 검색 API를 이용한 쇼핑몰 검색서비스 만들기
 author: pjh5365
 date: 2023-07-21 14:23:00 +0900
-categories: [BackEnd, Spring/Spring Boot]
+categories: [BackEnd, Spring]
 tags: [backend, springboot]
 image:
   path: /assets/img/springlogo.png

@@ -2,7 +2,7 @@
 title: (Spring) 빈 라이프 사이클
 author: pjh5365
 date: 2023-07-06 18:00:00 +0900
-categories: [BackEnd, Spring/Spring Boot]
+categories: [BackEnd, Spring]
 tags: [backend, spring]
 image:
   path: /assets/img/springlogo.png

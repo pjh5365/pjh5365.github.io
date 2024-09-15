@@ -1,8 +1,8 @@
 ---
-title: (Spring Boot) Validation
+title: (Spring) Validation
 author: pjh5365
 date: 2023-07-16 09:00:00 +0900
-categories: [BackEnd, Spring/Spring Boot]
+categories: [BackEnd, Spring]
 tags: [backend, springboot]
 image:
   path: /assets/img/springlogo.png
