@@ -31,7 +31,7 @@ Subnet은 다시 네트워크의 특성에 따라 **Public Subnet**과 **Private
 
 주로 데이터베이스 서버, 백엔드 서버 등 외부 접근이 불필요한 리소스를 해당 Subnet에 둔다.
 
-### **NAT Gateway와 Internet Gateway**
+### NAT Gateway와 Internet Gateway
 
 #### Internet Gateway(IGW)
 
