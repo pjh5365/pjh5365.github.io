@@ -2,7 +2,7 @@
 title: VPC와 Subnet
 author: pjh5365
 date: 2025-1-16 21:35:00 +0900
-categories: [DevOps, 개념]
+categories: [DevOps, Cloud]
 tags: [devops]
 image:
   path: /assets/img/devops.png
